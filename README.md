@@ -63,7 +63,7 @@ The primary objectives of this analysis are to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mental-health-in-tech.git
+   git clone https://github.com/razzf/mental-health-data-analysis
    cd mental-health-in-tech
 
 2. Install the required dependencies:
